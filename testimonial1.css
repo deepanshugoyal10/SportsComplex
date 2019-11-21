@@ -1,0 +1,33 @@
+m{
+cell-padding:200px;
+width:50px;
+height:280px;
+
+}
+
+.m img{
+border-radius:50%;
+margin-top:50px;
+margin-right:50px;
+border:2px black solid;
+}
+
+.test1
+{
+width:200px;
+height:250px;
+border:7px solid black;
+background-color:white;
+color:black;
+}
+
+.black1
+{
+background-image:url("ttbg.jpg");
+}
+
+.head1{
+color:white;
+text-align:center;
+font-size:60px;
+}
